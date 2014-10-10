@@ -6,3 +6,7 @@ historytoday-java
 ## 介绍
 
 通过爬取网站 [http://www.rijiben.com](http://www.rijiben.com ) 获得历史上的今天的列表。
+
+## 效果图
+
+![](http://pistatic.qiniudn.com/images/historytoday.png)
